@@ -7,9 +7,9 @@ This website aims to build a good digital footprint for a user, so he/she can ad
 
 ## Used Technologies
 
-Html
-CSS
-jQuery
+Html,
+CSS,
+jQuery,
 Bootstrap
 
 ## Usage
